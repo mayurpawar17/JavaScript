@@ -18,9 +18,15 @@ console.log(3+3);
 
 let fname="mayur";
 let age=22;
+let isDark=false;
+let phoneNo;
 
-console.log(typeof fname); // output -> String
-console.log(typeof age); // output -> number
+console.log(typeof fname); // String
+console.log(typeof age); // number
+console.log(typeof isDark); // boolean
+console.log(typeof phoneNo); // undefined
+
+
 
 
 
