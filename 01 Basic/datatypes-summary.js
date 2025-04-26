@@ -24,3 +24,9 @@ let personInfo = {
 const myFunction = function () {
   console.log("Hello world");
 };
+
+
+//Stack & Heap memory
+
+//premitive store & use in stack memory
+//reference store & use in heap memory
